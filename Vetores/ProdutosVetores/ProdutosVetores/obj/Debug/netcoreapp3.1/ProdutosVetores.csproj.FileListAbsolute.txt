@@ -1,0 +1,13 @@
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.exe
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.deps.json
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.runtimeconfig.json
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.runtimeconfig.dev.json
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.dll
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\bin\Debug\netcoreapp3.1\ProdutosVetores.pdb
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.csprojAssemblyReference.cache
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.AssemblyInfoInputs.cache
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.AssemblyInfo.cs
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.csproj.CoreCompileInputs.cache
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.dll
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.pdb
+C:\udemy\Projetos-C-\Vetores\ProdutosVetores\ProdutosVetores\obj\Debug\netcoreapp3.1\ProdutosVetores.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.exe
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.csprojAssemblyReference.cache
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.AssemblyInfoInputs.cache
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.AssemblyInfo.cs
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.deps.json
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.runtimeconfig.json
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.runtimeconfig.dev.json
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.dll
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\Escola.pdb
+C:\Udemy\Escola\Escola\Escola\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.csproj.CoreCompileInputs.cache
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.csproj.CopyComplete
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.dll
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.pdb
+C:\Udemy\Escola\Escola\Escola\obj\Debug\netcoreapp3.1\Escola.genruntimeconfig.cache

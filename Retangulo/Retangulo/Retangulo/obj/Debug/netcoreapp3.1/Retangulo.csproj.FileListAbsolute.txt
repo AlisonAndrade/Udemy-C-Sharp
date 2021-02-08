@@ -1,0 +1,13 @@
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csprojAssemblyReference.cache
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfoInputs.cache
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.AssemblyInfo.cs
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.csproj.CoreCompileInputs.cache
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.exe
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.deps.json
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.json
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.runtimeconfig.dev.json
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.dll
+C:\Udemy\Retangulo\Retangulo\Retangulo\bin\Debug\netcoreapp3.1\Retangulo.pdb
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.dll
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.pdb
+C:\Udemy\Retangulo\Retangulo\Retangulo\obj\Debug\netcoreapp3.1\Retangulo.genruntimeconfig.cache

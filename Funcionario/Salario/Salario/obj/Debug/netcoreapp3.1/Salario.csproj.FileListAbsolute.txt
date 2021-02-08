@@ -1,0 +1,13 @@
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.csprojAssemblyReference.cache
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfoInputs.cache
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfo.cs
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.csproj.CoreCompileInputs.cache
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.exe
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.deps.json
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.json
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.dev.json
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.dll
+C:\Udemy\Funcionario\Salario\Salario\bin\Debug\netcoreapp3.1\Salario.pdb
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.dll
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.pdb
+C:\Udemy\Funcionario\Salario\Salario\obj\Debug\netcoreapp3.1\Salario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.csprojAssemblyReference.cache
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.AssemblyInfoInputs.cache
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.AssemblyInfo.cs
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.csproj.CoreCompileInputs.cache
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.exe
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.deps.json
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.runtimeconfig.json
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.runtimeconfig.dev.json
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.dll
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\bin\Debug\netcoreapp3.1\Listagem.pdb
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.dll
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.pdb
+D:\Curso Udemy\C#\Listagem\Listagem\Listagem\obj\Debug\netcoreapp3.1\Listagem.genruntimeconfig.cache

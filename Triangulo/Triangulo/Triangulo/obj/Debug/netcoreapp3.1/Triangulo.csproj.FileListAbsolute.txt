@@ -1,0 +1,13 @@
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csprojAssemblyReference.cache
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfoInputs.cache
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.AssemblyInfo.cs
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.csproj.CoreCompileInputs.cache
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.exe
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.deps.json
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.json
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.runtimeconfig.dev.json
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.dll
+C:\Udemy\Triangulo\Triangulo\Triangulo\bin\Debug\netcoreapp3.1\Triangulo.pdb
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.dll
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.pdb
+C:\Udemy\Triangulo\Triangulo\Triangulo\obj\Debug\netcoreapp3.1\Triangulo.genruntimeconfig.cache

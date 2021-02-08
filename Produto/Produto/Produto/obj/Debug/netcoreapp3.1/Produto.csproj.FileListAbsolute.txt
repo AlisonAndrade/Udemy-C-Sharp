@@ -1,0 +1,13 @@
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.exe
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.deps.json
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.json
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.dev.json
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.dll
+C:\Udemy\Produto\Produto\Produto\bin\Debug\netcoreapp3.1\Produto.pdb
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csprojAssemblyReference.cache
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfoInputs.cache
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfo.cs
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.CoreCompileInputs.cache
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.dll
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.pdb
+C:\Udemy\Produto\Produto\Produto\obj\Debug\netcoreapp3.1\Produto.genruntimeconfig.cache

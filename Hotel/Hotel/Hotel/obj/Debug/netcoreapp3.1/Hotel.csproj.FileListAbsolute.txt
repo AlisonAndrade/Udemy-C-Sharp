@@ -1,0 +1,13 @@
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csprojAssemblyReference.cache
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfoInputs.cache
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfo.cs
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csproj.CoreCompileInputs.cache
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.exe
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.deps.json
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.json
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.dev.json
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.dll
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.pdb
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.dll
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.pdb
+D:\Curso Udemy\C#\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.genruntimeconfig.cache

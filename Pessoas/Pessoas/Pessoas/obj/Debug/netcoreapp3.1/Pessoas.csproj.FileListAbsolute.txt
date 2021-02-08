@@ -1,0 +1,12 @@
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.exe
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.deps.json
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.runtimeconfig.json
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.runtimeconfig.dev.json
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.dll
+C:\Udemy\Pessoas\Pessoas\Pessoas\bin\Debug\netcoreapp3.1\Pessoas.pdb
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.csprojAssemblyReference.cache
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.AssemblyInfoInputs.cache
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.AssemblyInfo.cs
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.dll
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.pdb
+C:\Udemy\Pessoas\Pessoas\Pessoas\obj\Debug\netcoreapp3.1\Pessoas.genruntimeconfig.cache
